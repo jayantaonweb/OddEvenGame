@@ -33,12 +33,12 @@ This project is a graphical user interface (GUI)-based Odd Even Game developed u
 
 ## How to Run the Game
 ### Using .exe (Windows):
-1. Download the executable file from the [OddEvenGame.exe][(link-to-your-exe-file)](https://github.com/jayantaonweb/OddEvenGame/blob/main/OddEvenGame.exe).
+1. Download the executable file from the [OddEvenGame.exe](https://github.com/jayantaonweb/OddEvenGame/blob/main/OddEvenGame.exe).
 2. **JDK Requirement**: Ensure that JDK 17 or higher is installed on your system. If you don't have the JDK, you can download the version bundled with the executable in the ZIP file below.
 3. Run the `.exe` file.
 4. Follow the on-screen instructions to play the game.
 
 ### Using the ZIP File with Portable JDK:
-1. Download the `.zip` file containing the portable JDK and the executable from the [OddEvenGame_JDK.zip][(link-to-your-zip-file)](https://github.com/jayantaonweb/OddEvenGame/releases/download/v1.0/OddEvenGame.zip).
+1. Download the `.zip` file containing the portable JDK and the executable from the [OddEvenGame_JDK.zip](https://github.com/jayantaonweb/OddEvenGame/releases/download/v1.0/OddEvenGame.zip).
 2. Extract the contents of the ZIP file.
 3. Navigate to the extracted folder and run the `.exe` file. No need to install the JDK separately.
